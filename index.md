@@ -13,8 +13,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 - Memes in the lecture slides
 - Terminal
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
